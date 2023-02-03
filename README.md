@@ -18,18 +18,6 @@
     <div class="skill">Vue</div>
     <div class="skill">Responsive Design</div>
   </div>
-  <h2>Projects</h2>
-  <div class="projects">
-    <div class="project">
-      <a href="https://github.com/{username}/{project1}" target="_blank">Project 1</a>
-    </div>
-    <div class="project">
-      <a href="https://github.com/{username}/{project2}" target="_blank">Project 2</a>
-    </div>
-    <div class="project">
-      <a href="https://github.com/{username}/{project3}" target="_blank">Project 3</a>
-    </div>
-  </div>
   <h2>Contact Me</h2>
   <div class="contact">
     <p>Feel free to reach out to me for any questions or if you'd like to work together on a project.</p>
