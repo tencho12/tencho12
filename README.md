@@ -6,7 +6,7 @@
   <meta http-equiv="X-UA-Compatible" content="ie=edge">  
 </head>
 <body>
-  <h1>Welcome to my Personal Page</h1>
+  <h1>Hello Viewer</h1>
   <p>Hello there! I am a front-end developer with over 3 years of experience. I specialize in building beautiful and user-friendly websites that provide the best user experience. I am passionate about creating clean and effective code to make sure that websites are not only aesthetically pleasing, but also function efficiently.</p>
   <h2>Skills</h2>
   <div class="skills">
